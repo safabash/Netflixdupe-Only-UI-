@@ -16,3 +16,4 @@ const newAndHotImage2 =
     'https://www.themoviedb.org/t/p/w500_and_h282_face/dFCtmk760k1j6G0sSPrZMnMuNuL.jpg';
 const newAndHotImage =
     'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l99dylTOAMkwKSr54X5ytiEtnLA.jpg';
+const imageAppendUrl = "https://image.tmdb.org/t/p/w500";
